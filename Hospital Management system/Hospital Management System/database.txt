@@ -1,0 +1,4 @@
+first_name,last_name, age,ph. no,postcode,symptoms,doctor assigned
+Sara,Smith,20,07012345678,B1 234,Not recorded,None
+Mike,Jones,37,07555551234,L2 2AB,Not recorded,None
+Daivd,Smith,15,07123456789,C1 ABC,Not recorded,None
